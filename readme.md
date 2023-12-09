@@ -92,16 +92,3 @@ Note: For installing the Neural Prophet and Greykite libraries, refer to the doc
 
 ---
 
-## Project Takeaways
-
-This project provides insights into a wide range of topics, including:
-
-1. Understanding the business context and objectives.
-2. Analyzing trends and seasonality.
-3. Using Greykite for time series modeling.
-4. Employing the Neural Prophet library for forecasting.
-5. Model evaluation methods.
-6. Comparing Greykite and Neural Prophet models.
-7. Deployment using Flask.
-
----
