@@ -153,14 +153,6 @@ Navigate to `http://127.0.0.1:5000` in your browser to interact with the web-bas
 
 ---
 
-## Why Choose This Project?
-
-- **Advanced Models**: Leverage state-of-the-art tools like Greykite and Neural Prophet.
-- **Comprehensive Workflow**: From data preprocessing to web deployment.
-- **Real-World Applications**: Designed to solve practical business challenges in forecasting.
-
----
-
 ## Contributing
 
 Contributions are welcome! To contribute:
